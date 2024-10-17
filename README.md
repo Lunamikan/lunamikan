@@ -1,4 +1,4 @@
-## Hi there 👋
+## 初めましてみなさん、Lunamikanです 👋
 
 <!--
 **Lunamikan/lunamikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
