@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me
 - 3rd-year undergraduate student in the Faculty of Information Science
 - Passionate about **building dialogue AI systems** and **deploying scalable cloud services**
-- Also working as a Music Creator/Mix Engineer
+- Active as a music creator and mix engineer
 
 ## 💡 Current Interests and Experience
 ```mermaid
